@@ -1,0 +1,52 @@
+p{
+  color: black;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+body{
+    font-size: 40px;
+    color: #0099ff;
+    background-color: #ffe6f0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  .topnav {
+  overflow: hidden;
+  background-color: #b30086;
+}
+
+  .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+  .topnav a:active {
+  background-color: #b3b300;
+  color: white;
+}
+
+h4{
+  font-style: oblique;
+  color: #cc6666;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+h6{
+  font-style: oblique;
+  color: #b36b00;
+  text-align: left;
+}
+}
